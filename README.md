@@ -22,7 +22,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://vikassax1610.github.io/musicplayer/
-Navigate to the project directory: 
+Navigate to the project directory: https://github.com/vikassax1610/musicplayer/tree/main
 
 bash
 Copy code
